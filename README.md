@@ -1,4 +1,5 @@
 # PSI Test
+CSC 8370 - Data Security
 
 ## Instructions
 Write a program to calculate Psi.  It would be a good idea to use dictionaries (in python) and make it able to handle the frequencies of multiple characters.
