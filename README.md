@@ -1,5 +1,6 @@
 # PSI Test
 
+## Instructions
 Write a program to calculate Psi.  It would be a good idea to use dictionaries (in python) and make it able to handle the frequencies of multiple characters.
 
 1) Substitution does not alter the underlying distribution.  Check this by calculating Psi for one of the message texts and corresponding Caesar ciphers.  You'd darned well better get the same answer.
